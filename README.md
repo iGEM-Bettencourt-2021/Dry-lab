@@ -1,5 +1,5 @@
 # Dry-lab
-Welcome to the Dry-Lab GitHub page for iGEM 2021 Bettencourt team! You will find there all the relevant information and links related to the computational, numerical and data management issues of this project. This page will be updated regularly with our objectives from ideas brainstorming to data analysis and website development. 
+Welcome to the Dry-Lab GitHub page for iGEM 2021 Bettencourt team! You will find there all the relevant information and links related to the computational, numerical and data management issues of this project. This repository will be updated regularly with our objectives from ideas brainstorming to data analysis and website development. 
 
 The members of this team are the following: 
 
