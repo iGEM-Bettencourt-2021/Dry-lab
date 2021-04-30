@@ -6,7 +6,6 @@ The members of this team are the following:
 - Clément Galan (https://github.com/git-cgalan) 
 - Juliette Bellengier (https://github.com/JulietteB-cri) 
 - Camila Ballenghien (https://github.com/camilaball) 
-- Imran Nooraddin (https://github.com/research555) 
 - Sophie Lei (https://github.com/Sophlei) 
 - Karolina Guzauskaite (https://github.com/KaroGu) 
 - Abhay Koushik (https://github.com/AbhayKoushik)
